@@ -1,7 +1,7 @@
 package br.com.sistema_nova.mvc.controller;
 
 import br.com.sistema_nova.mvc.model.Pedido;
-import br.com.sistema_nova.mvc.service.PedidoService;
+import br.com.sistema_nova.mvc.model.service.PedidoService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

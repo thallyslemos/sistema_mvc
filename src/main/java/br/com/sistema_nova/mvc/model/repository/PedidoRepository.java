@@ -1,4 +1,4 @@
-package br.com.sistema_nova.mvc.repository;
+package br.com.sistema_nova.mvc.model.repository;
 
 import br.com.sistema_nova.mvc.model.Pedido;
 import org.springframework.data.jpa.repository.JpaRepository;
